@@ -1,0 +1,6 @@
+# ignore all files ending in 
+*.o
+*.out
+*.log
+.ninja_log
+
