@@ -1,4 +1,6 @@
 # Sandy - Physics Simulation
+## ~ CURRENTLY A WORK IN PROGRESS ~ 
+
 This project was a big challenge to put together. It required me to combine my knowledge with C++ and many Physics concepts
 
 
